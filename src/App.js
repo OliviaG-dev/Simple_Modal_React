@@ -1,10 +1,10 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import Modal from './lib/components/modal/modal'
 
 function App() {
-    //useState 'true' for see modal
-    const [isShow, setIsShow] = useState(false);
+    
+    const [isShow, setIsShow] = useState(true);
     const closeModal = () => {
         setIsShow(!isShow)
     }

@@ -1,4 +1,5 @@
 import './modal.css'
+import React from 'react'
 
 const Modal = ({text, closeModal}) => (
     <div className='modal__container'>
