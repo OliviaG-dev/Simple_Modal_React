@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import Modal from './lib/components/modal/modal'
 
