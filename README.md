@@ -2,6 +2,9 @@
 
 This project is Modal components for React.
 It is used to validate a form
+
+https://www.npmjs.com/package/@oliviag-dev/simple-npm-modal-react
+
 ## Install
 
 ```bash
@@ -20,7 +23,7 @@ yarn add @oliviag-dev/simple-npm-modal-react
 import { Modal } from '@oliviag-dev/simple-npm-modal-react';
 ```
 
-2-whrite the logic to sho or hide the modal
+2-whrite the logic to show or hide the modal
 ```bash
 const [isShow, setIsShow] = useState(true)
 ```
