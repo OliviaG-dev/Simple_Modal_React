@@ -2,7 +2,7 @@
   "name": "@oliviag-dev/simple-npm-modal-react",
   "author": "oliviag-dev",
   "license": "MIT",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Composants modal for react",
   "main": "dist/index.js",
   "module": "dist/index.js",
