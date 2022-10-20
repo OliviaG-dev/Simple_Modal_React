@@ -28,7 +28,7 @@ import { Modal } from '@oliviag-dev/simple-npm-modal-react';
 const [isShow, setIsShow] = useState(true)
 ```
 
-3-whrite the logic for close the modal
+3-whrite the logic for toogle the modal
 ```bash
 const closeModal = () = { setIsShow(!isShow) }
 ```
